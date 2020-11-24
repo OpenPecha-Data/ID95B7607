@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG580
   title: བཀའ་གཙིགས་དང་རྡོ་རིང་གི་ཡི་གེ།
-  volume: ''
+  volume:
+    a36b2de5ba7148cdad822b48fe559095:
+      image_group_id: I1KG13749
+      title: Volume 1 of bka' gtsigs dang rdo ring gi yi ge/
+      volume_number: 1
+      total_pages: 78
   author: ''
+ebook_metadata:
+  title: བཀའ་གཙིགས་དང་རྡོ་རིང་གི་ཡི་གེ།
+  author: ''
+  sku: P008111
+  cover: cover.jpg
+  layers:
+  - pagination
